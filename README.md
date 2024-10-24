@@ -34,4 +34,7 @@ Model, eğitim ve test setlerine ayrılan veri üzerinde eğitilmiştir. Eğitim
 Sonuçlar
 Karışıklık matrisi ve sınıflandırma raporu ile modelin doğruluğu ve performansı değerlendirilmiştir.
 
+Kaggle Proje Linki : https://www.kaggle.com/code/ahmetcoban17/proje-son-hal
+
+
 */
